@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{60942A5D-093A-93CC-E298-9AAFF4336EAD}</ProjectGuid>
+    <ProjectGuid>{732E2BF5-A873-1D1C-B472-5D09E6B17C1C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\Enemies\BasicEnemy.cs" />
      <Compile Include="Assets\_Scripts\Enemies\EnemyStats.cs" />
      <Compile Include="Assets\_Scripts\Enemies\GolemBehvour.cs" />
      <Compile Include="Assets\_Scripts\PlayerChar\PlayerScript.cs" />
@@ -110,7 +111,7 @@
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Nibbcity/Documents/A UnityTutorials/BattleArena/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Nibbcity/Documents/GitHub/BattleArena-TitanSouls-/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

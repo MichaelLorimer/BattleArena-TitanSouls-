@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{078DCF36-5B3F-CC2D-3AFB-BD6B6A7031D5}</ProjectGuid>
+    <ProjectGuid>{552DD221-FD4C-B316-0D3B-561FCBF30710}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -96,7 +96,7 @@
      <Compile Include="Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Nibbcity/Documents/A UnityTutorials/BattleArena/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Nibbcity/Documents/GitHub/BattleArena-TitanSouls-/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -191,7 +191,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{60942A5D-093A-93CC-E298-9AAFF4336EAD}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{732E2BF5-A873-1D1C-B472-5D09E6B17C1C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
